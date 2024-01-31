@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "46ymCoaD8mhl6wlHWpzl7iyy+kTT7p3p1vrB6PxGFshc/X0ihe+HazuYMG9FDRTyb2B1cOqnlF1zNSJ6w128HQ==",
+  "dgSpecHash": "rQUDXic+lI2q/tgRsM9EtujAL0f5mWQ7vdlm9DXfThnLuj1pO2Giq+tEXVqVKySunc37tG8qZdZFWOQ7WoA62A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\BlazorSample\\BlazorSample.csproj",
+  "projectFilePath": "C:\\Users\\MAGS\\Documents\\GitHub\\BlazorEksempler\\BlazorSample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.authorization\\8.0.0\\microsoft.aspnetcore.authorization.8.0.0.nupkg.sha512",
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.aspnetcore.components\\8.0.0\\microsoft.aspnetcore.components.8.0.0.nupkg.sha512",
@@ -17,6 +17,7 @@
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
     "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.jsinterop\\8.0.0\\microsoft.jsinterop.8.0.0.nupkg.sha512",
+    "C:\\Users\\MAGS\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
     "C:\\Users\\MAGS\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512"
   ],
   "logs": []

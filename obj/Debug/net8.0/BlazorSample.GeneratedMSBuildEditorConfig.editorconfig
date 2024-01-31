@@ -9,679 +9,679 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BlazorSample
 build_property.RootNamespace = BlazorSample
-build_property.ProjectDir = C:\Users\MAGS\Documents\GitHub\BlazorSample\
+build_property.ProjectDir = C:\Users\MAGS\Documents\GitHub\BlazorEksempler\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\MAGS\Documents\GitHub\BlazorSample
+build_property.MSBuildProjectDirectory = C:\Users\MAGS\Documents\GitHub\BlazorEksempler
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/App.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/App.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBcHAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/AttributeOrderChild1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/AttributeOrderChild1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdHRyaWJ1dGVPcmRlckNoaWxkMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/AttributeOrderChild2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/AttributeOrderChild2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBdHRyaWJ1dGVPcmRlckNoaWxkMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/BadExpander.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/BadExpander.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xCYWRFeHBhbmRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Child.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Child.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ChildBind.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ChildBind.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDaGlsZEJpbmQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/CustomInputText.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/CustomInputText.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xDdXN0b21JbnB1dFRleHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Details.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Details.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Expander.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Expander.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xFeHBhbmRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Heading.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Heading.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xIZWFkaW5nLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Layout/DoctorWhoLayout.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Layout/DoctorWhoLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRG9jdG9yV2hvTGF5b3V0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Layout/DoctorWhoLayout2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Layout/DoctorWhoLayout2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcRG9jdG9yV2hvTGF5b3V0Mi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Layout/ProductionsLayout.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Layout/ProductionsLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcUHJvZHVjdGlvbnNMYXlvdXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ListGenericTypeItems1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ListGenericTypeItems1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaXN0R2VuZXJpY1R5cGVJdGVtczEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ListItem1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ListItem1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaXN0SXRlbTEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ListItem2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ListItem2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMaXN0SXRlbTIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/MeasureLatency.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/MeasureLatency.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xNZWFzdXJlTGF0ZW5jeS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/NamedTupleChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/NamedTupleChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYW1lZFR1cGxlQ2hpbGQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/NestedChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/NestedChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOZXN0ZWRDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/NestedGrandchild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/NestedGrandchild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOZXN0ZWRHcmFuZGNoaWxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/AfterRender.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/AfterRender.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBZnRlclJlbmRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/AttributeOrder1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/AttributeOrder1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdHRyaWJ1dGVPcmRlcjEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/AttributeOrder2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/AttributeOrder2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xBdHRyaWJ1dGVPcmRlcjIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BackgroundWork.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BackgroundWork.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCYWNrZ3JvdW5kV29yay5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Bind.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Bind.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCaW5kLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BindEvent.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BindEvent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCaW5kRXZlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BindTheory.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BindTheory.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCaW5kVGhlb3J5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BlazorRocks1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BlazorRocks1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCbGF6b3JSb2NrczEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BlazorRocks2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BlazorRocks2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCbGF6b3JSb2NrczIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BlazorRoute.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BlazorRoute.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCbGF6b3JSb3V0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/BuiltContent.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/BuiltContent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xCdWlsdENvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0Mi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0My5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet4.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0NC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet5.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet5.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0NS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet6.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet6.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0Ni5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet7.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet7.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0Ny5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallDotnet8.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallDotnet8.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsRG90bmV0OC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnMxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs11.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs11.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnMxMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnMyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnMzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs4.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnM0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs5.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs5.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnM1LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs6.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs6.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnM2LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs7.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs7.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnM3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CallJs8.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CallJs8.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYWxsSnM4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CatchAll.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CatchAll.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDYXRjaEFsbC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ConditionalAttribute.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ConditionalAttribute.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb25kaXRpb25hbEF0dHJpYnV0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ControlHeadContent.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ControlHeadContent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250cm9sSGVhZENvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ControlRender.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ControlRender.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb250cm9sUmVuZGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Counter.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Counter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Counter1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Counter1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Counter2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Counter2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CounterPartialClass.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CounterPartialClass.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyUGFydGlhbENsYXNzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CounterState1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CounterState1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyU3RhdGUxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/CounterState2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/CounterState2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xDb3VudGVyU3RhdGUyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Daleks.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Daleks.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEYWxla3MucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/DateBinding.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/DateBinding.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEYXRlQmluZGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/DecimalBinding.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/DecimalBinding.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEZWNpbWFsQmluZGluZy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/DynamicComponent1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/DynamicComponent1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEeW5hbWljQ29tcG9uZW50MS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/DynamicComponent2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/DynamicComponent2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEeW5hbWljQ29tcG9uZW50Mi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/DynamicComponent3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/DynamicComponent3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xEeW5hbWljQ29tcG9uZW50My5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EmptyContent.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EmptyContent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFbXB0eUNvbnRlbnQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Episodes.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Episodes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcGlzb2Rlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Error.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Error.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFcnJvci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXIxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXIyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXIzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler4.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXI0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler5.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler5.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXI1LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler6.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler6.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXI2LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler7.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler7.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXI3LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/EventHandler8.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/EventHandler8.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFdmVudEhhbmRsZXI4LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ExpanderExample.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ExpanderExample.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xFeHBhbmRlckV4YW1wbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/FileDownload1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/FileDownload1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxlRG93bmxvYWQxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/FileDownload2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/FileDownload2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxlRG93bmxvYWQyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/FileUpload1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/FileUpload1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxlVXBsb2FkMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/FileUpload2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/FileUpload2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxlVXBsb2FkMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/FileUpload3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/FileUpload3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xGaWxlVXBsb2FkMy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/GenericType1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/GenericType1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xHZW5lcmljVHlwZTEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/HeadingExample.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/HeadingExample.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIZWFkaW5nRXhhbXBsZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/HelloWorld.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/HelloWorld.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIZWxsb1dvcmxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Home.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Home.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xIb21lLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Markup.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Markup.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYXJrdXAucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/MarkupStrings.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/MarkupStrings.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xNYXJrdXBTdHJpbmdzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/NamedTuples.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/NamedTuples.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOYW1lZFR1cGxlcy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Navigate.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Navigate.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOYXZpZ2F0ZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Notifications.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Notifications.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xOb3RpZmljYXRpb25zLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/OnInit.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/OnInit.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPbkluaXQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/OnParamsSet.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/OnParamsSet.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPblBhcmFtc1NldC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/OptionalParameter.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/OptionalParameter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xPcHRpb25hbFBhcmFtZXRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Parameter1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Parameter1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJhbWV0ZXIxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Parameter2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Parameter2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJhbWV0ZXIyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Parameter3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Parameter3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJhbWV0ZXIzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Parent1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Parent1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJlbnQxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Parent2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Parent2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJlbnQyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ParentChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ParentChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXJlbnRDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PasswordBinding.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PasswordBinding.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQYXNzd29yZEJpbmRpbmcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/People.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/People.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZW9wbGUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Pets1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Pets1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXRzMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Pets2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Pets2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXRzMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Pets3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Pets3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXRzMy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Pets4.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Pets4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQZXRzNC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PrerenderedCounter1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PrerenderedCounter1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVyZW5kZXJlZENvdW50ZXIxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PrerenderedCounter2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PrerenderedCounter2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVyZW5kZXJlZENvdW50ZXIyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PrerenderedInterop1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PrerenderedInterop1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVyZW5kZXJlZEludGVyb3AxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PrerenderedInterop2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PrerenderedInterop2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcmVyZW5kZXJlZEludGVyb3AyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ProductDetails.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ProductDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9kdWN0RGV0YWlscy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/PromotionGrid.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/PromotionGrid.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xQcm9tb3Rpb25HcmlkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/RazorTemplate.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/RazorTemplate.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSYXpvclRlbXBsYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ReferenceParent1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ReferenceParent1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWZlcmVuY2VQYXJlbnQxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ReferenceParent2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ReferenceParent2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZWZlcmVuY2VQYXJlbnQyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/RenderFragments.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/RenderFragments.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZW5kZXJGcmFnbWVudHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/RenderTupleParent.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/RenderTupleParent.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSZW5kZXJUdXBsZVBhcmVudC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/RouteParameter1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/RouteParameter1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSb3V0ZVBhcmFtZXRlcjEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/RouteParameter2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/RouteParameter2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xSb3V0ZVBhcmFtZXRlcjIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/SetParamsAsync.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/SetParamsAsync.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTZXRQYXJhbXNBc3luYy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ShowImage1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ShowImage1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93SW1hZ2UxLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ShowImage2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ShowImage2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTaG93SW1hZ2UyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Splat.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Splat.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTcGxhdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDEucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship11.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship11.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDExLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship12.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship12.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDEyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship13.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship13.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDEzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship14.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship14.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDE0LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship3.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship3.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship4.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship4.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship5.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship5.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDUucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship6.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship6.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDYucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship7.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship7.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDcucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship8.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship8.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Starship9.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Starship9.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcDkucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/StarshipPlainForm.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/StarshipPlainForm.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xTdGFyc2hpcFBsYWluRm9ybS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/ThemedCounter.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/ThemedCounter.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaGVtZWRDb3VudGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/TheSunmakers.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/TheSunmakers.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaGVTdW5tYWtlcnMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/TimerDisposal1.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/TimerDisposal1.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaW1lckRpc3Bvc2FsMS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/TimerDisposal2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/TimerDisposal2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUaW1lckRpc3Bvc2FsMi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Todo.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Todo.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xUb2RvLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/UnparsableValues.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/UnparsableValues.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xVbnBhcnNhYmxlVmFsdWVzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/VirtualizedTable.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/VirtualizedTable.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xWaXJ0dWFsaXplZFRhYmxlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Pages/Weather.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Pages/Weather.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYWdlc1xXZWF0aGVyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ParameterChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ParameterChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYXJhbWV0ZXJDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/PasswordEntry.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/PasswordEntry.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYXNzd29yZEVudHJ5LnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/PasswordEntry2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/PasswordEntry2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQYXNzd29yZEVudHJ5Mi5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/PetDetails.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/PetDetails.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQZXREZXRhaWxzLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/ReferenceChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/ReferenceChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZWZlcmVuY2VDaGlsZC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/RenderFragmentChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/RenderFragmentChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZW5kZXJGcmFnbWVudENoaWxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/RenderTupleChild.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/RenderTupleChild.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSZW5kZXJUdXBsZUNoaWxkLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/RocketLab.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/RocketLab.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb2NrZXRMYWIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/RocketLab2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/RocketLab2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb2NrZXRMYWIyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/RocketLabWithWindowSeat.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/RocketLabWithWindowSeat.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb2NrZXRMYWJXaXRoV2luZG93U2VhdC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Routes.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Routes.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xSb3V0ZXMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/SpaceX.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/SpaceX.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTcGFjZVgucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/SpaceX2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/SpaceX2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTcGFjZVgyLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/StarshipSubform.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/StarshipSubform.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdGFyc2hpcFN1YmZvcm0ucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/SurveyPrompt.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/SurveyPrompt.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xTdXJ2ZXlQcm9tcHQucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/TableTemplate.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/TableTemplate.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xUYWJsZVRlbXBsYXRlLnJhem9y
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/UnitedLaunchAlliance.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/UnitedLaunchAlliance.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVbml0ZWRMYXVuY2hBbGxpYW5jZS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/UnitedLaunchAlliance2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/UnitedLaunchAlliance2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xVbml0ZWRMYXVuY2hBbGxpYW5jZTIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/VirginGalactic.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/VirginGalactic.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaXJnaW5HYWxhY3RpYy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/VirginGalactic2.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/VirginGalactic2.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xWaXJnaW5HYWxhY3RpYzIucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/_Imports.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xfSW1wb3J0cy5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Layout/MainLayout.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Layout/MainLayout.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTWFpbkxheW91dC5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-7q73sk7pkb
 
-[C:/Users/MAGS/Documents/GitHub/BlazorSample/Components/Layout/NavMenu.razor]
+[C:/Users/MAGS/Documents/GitHub/BlazorEksempler/Components/Layout/NavMenu.razor]
 build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xMYXlvdXRcTmF2TWVudS5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = b-2yjr09lhxl
